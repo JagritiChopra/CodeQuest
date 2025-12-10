@@ -1,4 +1,4 @@
-# AlgoQuest - LeetCode-Inspired Coding Platform
+# CodeQuest - LeetCode-Inspired Coding Platform
 
 AlgoQuest is a full-stack competitive programming platform inspired by LeetCode, built with modern web technologies. It provides an interactive environment for users to solve coding problems, submit solutions, and get real-time feedback through automated code execution.
 
