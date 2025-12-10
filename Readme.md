@@ -73,7 +73,7 @@ AlgoQuest is a full-stack competitive programming platform inspired by LeetCode,
 ## 📁 Project Structure
 
 ```
-AlgoQuest/
+CodeQuest/
 ├── Backend/
 │   ├── src/
 │   │   ├── config/
